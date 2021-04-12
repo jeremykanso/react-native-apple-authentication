@@ -541,6 +541,6 @@ Pods/*
 **/Pods/**
 **/build/**
 **/dist/
-**/version.js
+# **/version.js
 .tmp
 
